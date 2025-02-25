@@ -1,4 +1,4 @@
-# Unlocking Aerospace Innovation with PhD in Mechanical Engineering
+# Unlocking Aerospace Innovation
 
 [Fortran Linear Algebra Library](https://bolanderc.github.io/Bolander-Linear-Algebra-Library)
 
