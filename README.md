@@ -4,4 +4,4 @@
 
 [Propulsion System Aerodynamic Analysis](https://bolanderc.github.io/Bolander-Propulsion-Demos)
 
-[Classical Mathematics Foundations](https://github.com/bolanderc/classical-math-foundations)
+[Classical Mathematics Foundations](https://cbolander.github.io/classical-math-foundations/)
