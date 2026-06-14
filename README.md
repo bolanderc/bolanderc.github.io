@@ -5,9 +5,10 @@ Root GitHub Pages site for separating public portfolio work from homeschool reso
 ## Home School
 
 - [Bolander Home School](https://bolanderc.github.io/bolander-home-school/)
-- [Classical Language Arts EPUB](https://bolanderc.github.io/classical-language-arts/classical-language-arts.epub)
-- [Classical Math Foundations](https://bolanderc.github.io/classical-math-foundations/)
-- [Classical Math Foundations EPUB](https://bolanderc.github.io/classical-math-foundations/classical-math-foundations.epub)
+- [Read Classical Language Arts](https://bolanderc.github.io/classical-language-arts/)
+- [Download Classical Language Arts EPUB](https://bolanderc.github.io/classical-language-arts/classical-language-arts.epub)
+- [Read Classical Math Foundations](https://bolanderc.github.io/classical-math-foundations/)
+- [Download Classical Math Foundations EPUB](https://bolanderc.github.io/classical-math-foundations/classical-math-foundations.epub)
 
 ## Portfolio
 
